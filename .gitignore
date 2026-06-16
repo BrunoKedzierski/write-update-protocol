@@ -1,0 +1,4 @@
+.idea
+nodepython/.idea
+nodepython/nodepythonenv
+nodepython/app/__pycache__
